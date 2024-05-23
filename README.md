@@ -26,7 +26,7 @@ npm start
 
 ## Usages
 
-> * Check the console logs, should be received messages from tefa-order-service
+> * Check the console logs, should be received messages from tefa-kitchen-service
 
 ```bash
 Food & Beverages received: {"name":"Bambang","food":"Mie Goreng","beverage":"Jeruk Es","table_number":"01"}
